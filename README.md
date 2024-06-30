@@ -1,6 +1,6 @@
-# spring-boot-jpa-hateoa
+# spring-boot-jpa-hateoas
 
-## Pagination  with Hateoa, Filtering & Sorting with Spring Boot and JPA 
+## Pagination  with Hateoas, Filtering & Sorting with Spring Boot and JPA 
 
 ## Spring Web
 Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.
